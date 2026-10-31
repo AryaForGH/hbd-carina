@@ -65,9 +65,9 @@ export const birthdayContent = {
     }
   }),
   music: {
-    title: 'Shape of My Heart',
-    artist: 'Sting',
-    youtubeEmbedUrl: 'https://www.youtube-nocookie.com/embed/NlwIDxCjL-8',
+    title: 'You!',
+    artist: 'LANY',
+    youtubeEmbedUrl: 'https://www.youtube-nocookie.com/embed/HEAn4FqXFY4',
     dedication: 'Kalau boleh memilih lagu untuk kita, lagu ini salah satunya. ♡',
   },
   reasons: [
